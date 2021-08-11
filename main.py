@@ -18,4 +18,4 @@ for images in images:
     os.rename(images, images.replace(text_one, text_two))
 
 
-print("The changes are made")
+print("DONE, KYLE! PLEASE CHECK YOUR FILES")
